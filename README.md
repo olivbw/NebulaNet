@@ -10,3 +10,7 @@ The original background idea was taken from this [source](https://www.heroscreen
  - Run the script using Python: `python abstract_background_generator.py`
  - The script will output SVG background generated upon completion, and the SVG file `abstract_background.svg` will be created in the current directory.
 
+## Example
+
+<img src="abstract_background.svg">
+
