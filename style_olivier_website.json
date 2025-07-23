@@ -1,0 +1,8 @@
+{
+"background_color": "#f0f0f0",
+"line_color": "#888888",
+"point_color": "#162635",
+"min_point_size": 3,
+"max_point_size": 8,
+"line_threshold": 100
+}
