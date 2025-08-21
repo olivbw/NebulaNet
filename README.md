@@ -43,7 +43,7 @@ from nebulanet.config_loader import load_style_from_json
 # Use a predefined style
 style = PREDEFINED_STYLES['dark_space']
 
-# Or load a custom style from JSON
+#  Or load a custom style from JSON
 # style = load_style_from_json('path/to/custom_style.json')
 
 nn = NebulaNet(1920, 1080, style)
